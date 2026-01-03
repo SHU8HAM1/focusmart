@@ -17,3 +17,6 @@ This is to be done by mainly blocking websites but also building goals for the w
   We will track the website usage and create weekly reports that will be emailed to the user showcasing their average screen time for each website, we will also categorize the websites using AI
   and build a productivity score with the insights showing where the user can improve and helping out with some strategies of that. We can integrate AI by creating
   an MCP servers which can give it access to make time limits and blocking websites and suggest those to the user to implement.
+
+- ### Work Mode
+  Add a work mode that lets the user make a todo list and uses pomodoro techniques on the website during which the AI bot will block any website that it deems as a distraction.
